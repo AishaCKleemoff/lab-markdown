@@ -37,11 +37,15 @@ Based on fossil evidence from Russia and Bulgaria, the first known members of th
 
 <!-- Change the link below to be an image. Include descriptive alternate text. -->
 
-https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg
-
+![A mostly grey racoon, with brownish black fur around the eyes looking upward](https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg
+)
 
 <!-- Use one set of backticks to highlight the word raccoon as a keyword -->
 
-The raccoon is a worthwhile animal to study and write about.
+The `raccoon` is a worthwhile animal to study and write about.
 
 <!-- Use three sets of backticks and set the type of codeblock to js so that you can highlight a codeblock that shows a console.log() with a string about raccoons. -->
+
+```js
+console.log(`Raccoons are interesting animals!`)
+```
